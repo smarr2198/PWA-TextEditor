@@ -30,8 +30,8 @@ If you wish to contribute to our content, please contact one of us at:
 
 ## Links to Application
 
-- Here is the link to the repo: [smarr2198/repo](https://github.com/smarr2198/portfolio)
-- Here is the link to the pages: [smarr2198/pages](https://smarr2198.github.io/portfolio/)
+- Here is the link to the repo: [smarr2198/repo](https://github.com/smarr2198/PWA-TextEditor)
+- Here is the link to the Heroku URL: [smarr2198/pages](https://pwa-text-editor-smarr2198.herokuapp.com/)
 
 ## Questions
 
